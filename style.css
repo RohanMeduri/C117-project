@@ -1,0 +1,20 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    float: center;
+}
+#score{
+    font-size: 22px;
+    float: left;
+}
+#time{
+    font-size: 22px;
+    float: right;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    color: white;
+}
